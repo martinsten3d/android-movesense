@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_connect"
+        android:title="@string/connect"
+        android:icon="@drawable/ic_baseline_bluetooth_connected_24" />
+
+    <item
+        android:id="@+id/navigation_record"
+        android:title="@string/record"
+        android:icon="@drawable/ic_baseline_motion_photos_on_24" />
+
+    <item
+        android:id="@+id/navigation_graph"
+        android:title="@string/graph"
+        android:icon="@drawable/ic_baseline_ssid_chart_24" />
+
+</menu>

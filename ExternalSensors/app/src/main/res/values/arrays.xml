@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sensors_array">
+        <item>Acc</item>
+        <item>Gyro</item>
+        <item>Magn</item>
+        <item>IMU6</item>
+        <item>IMU6m</item>
+        <item>IMU9</item>
+    </string-array>
+
+    <string-array name="frequencies_array">
+        <item>13</item>
+        <item>26</item>
+        <item>52</item>
+        <item>104</item>
+        <item>208</item>
+        <item>416</item>
+        <item>833</item>
+        <item>1666</item>
+    </string-array>
+</resources>

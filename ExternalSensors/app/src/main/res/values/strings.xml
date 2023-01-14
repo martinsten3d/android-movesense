@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ExternalSensors</string>
+    <string name="scan_movesense_devices">Scan</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="no_device">No device</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="service_not_found">Service not found</string>
+    <string name="notifications_enabled">Notifications enabled</string>
+    <string name="no_data">No data</string>
+    <string name="ble_scan_stopped">BLE scan stopped</string>
+    <string name="sensor">Sensor</string>
+    <string name="frequency">Frequency</string>
+    <string name="acceleration">Acceleration</string>
+    <string name="x_s">X: %.2f</string>
+    <string name="y_s">Y: %.2f</string>
+    <string name="z_s">Z: %.2f</string>
+    <string name="gyro">Gyro</string>
+    <string name="magn">Magn</string>
+    <string name="record">Record</string>
+    <string name="save">Save</string>
+    <string name="graph">Graph</string>
+    <string name="angle_from_acceleration">Accelerometer</string>
+    <string name="angle_from_acceleration_and_gyro">Accelerometer\nGyroscope</string>
+    <string name="f_1f">%.1f°</string>
+    <string name="angle_default">0°</string>
+    <string name="blank">-</string>
+    <string name="connect">Connect</string>
+</resources>
